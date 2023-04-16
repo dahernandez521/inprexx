@@ -1,0 +1,8 @@
+Usuario: admin
+Pass: admin
+
+Usuario: ventas
+Pass: ventas
+
+Usuario: Almacen	
+Pass: almacen
